@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Librecea">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Administrador\Desktop\librecea v3\Librecea\Librecea.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\Administrador\Desktop\librecea v3\Librecea\Librecea.suo">
+</Property><Property Name="Date" Value="jueves, 08 de enero de 2015">
+</Property><Property Name="Time" Value="08:58 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Librecea.sln" Description="La copia C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Librecea.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Librecea.suo" Description="La copia C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Librecea.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Librecea.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\Librecea.csproj">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Librecea.csproj.user" Description="La copia de seguridad C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\Librecea.csproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\frmLogin.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\frmLogin.cs">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\frmLogin.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\frmLogin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\frmPantallaPrincipal.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\frmPantallaPrincipal.cs">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\frmPantallaPrincipal.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\frmPantallaPrincipal.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Pedido.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\Pedido.cs">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\Program.cs">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\SQL_Methods.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\SQL_Methods.cs">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\frmLogin.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\frmPantallaPrincipal.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\frmPantallaPrincipal.resx">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Administrador\Desktop\librecea v3\Librecea\Backup\Login\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Librecea.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Librecea" Source="Login\Librecea.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Librecea.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Librecea.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Librecea" Source="Login\Librecea.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

@@ -1,0 +1,9 @@
+C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\bin\Release\Login.exe
+C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\bin\Release\Login.pdb
+C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Release\WindowsFormsApplication1.frmLogin.resources
+C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Release\WindowsFormsApplication1.frmPantallaPrincipal.resources
+C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Release\Librecea.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Release\Login.exe
+C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Release\Login.pdb
