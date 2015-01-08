@@ -7,3 +7,13 @@ C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Debug\Login.exe
 C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Debug\Login.pdb
 C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Debug\WindowsFormsApplication1.frmLogin.resources
 C:\Users\Administrador\Desktop\librecea v3\Librecea\Login\obj\Debug\WindowsFormsApplication1.frmPantallaPrincipal.resources
+C:\Users\Administrador\Desktop\LIBRECEA\Login\obj\Debug\Login.exe
+C:\Users\Administrador\Desktop\LIBRECEA\Login\obj\Debug\Login.pdb
+C:\Users\Administrador\Desktop\LIBRECEA\Login\bin\Debug\Login.exe
+C:\Users\Administrador\Desktop\LIBRECEA\Login\bin\Debug\Login.pdb
+C:\Users\Administrador\Desktop\LIBRECEA\Login\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\LIBRECEA\Login\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\Administrador\Desktop\LIBRECEA\Login\obj\Debug\WindowsFormsApplication1.frmPantallaPrincipal.resources
+C:\Users\Administrador\Desktop\LIBRECEA\Login\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\LIBRECEA\Login\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrador\Desktop\LIBRECEA\Login\obj\Debug\GenerateResource-ResGen.write.1.tlog

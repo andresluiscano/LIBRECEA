@@ -31,6 +31,10 @@
             this.btnCaja = new System.Windows.Forms.Button();
             this.grbMenu = new System.Windows.Forms.GroupBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtTotal = new System.Windows.Forms.TextBox();
+            this.lbPedido = new System.Windows.Forms.ListBox();
+            this.cboItem = new System.Windows.Forms.ComboBox();
+            this.btn16 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.txtCuenta = new System.Windows.Forms.TextBox();
             this.btnC16 = new System.Windows.Forms.Button();
@@ -49,10 +53,6 @@
             this.btnC3 = new System.Windows.Forms.Button();
             this.btnC2 = new System.Windows.Forms.Button();
             this.btnC1 = new System.Windows.Forms.Button();
-            this.btn16 = new System.Windows.Forms.Button();
-            this.cboItem = new System.Windows.Forms.ComboBox();
-            this.lbPedido = new System.Windows.Forms.ListBox();
-            this.txtTotal = new System.Windows.Forms.TextBox();
             this.grbMenu.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -120,6 +120,44 @@
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Menu";
+            // 
+            // txtTotal
+            // 
+            this.txtTotal.Location = new System.Drawing.Point(351, 184);
+            this.txtTotal.Name = "txtTotal";
+            this.txtTotal.Size = new System.Drawing.Size(100, 26);
+            this.txtTotal.TabIndex = 23;
+            // 
+            // lbPedido
+            // 
+            this.lbPedido.FormattingEnabled = true;
+            this.lbPedido.ItemHeight = 18;
+            this.lbPedido.Location = new System.Drawing.Point(236, 65);
+            this.lbPedido.Name = "lbPedido";
+            this.lbPedido.Size = new System.Drawing.Size(214, 112);
+            this.lbPedido.TabIndex = 22;
+            // 
+            // cboItem
+            // 
+            this.cboItem.FormattingEnabled = true;
+            this.cboItem.Location = new System.Drawing.Point(236, 33);
+            this.cboItem.Name = "cboItem";
+            this.cboItem.Size = new System.Drawing.Size(214, 26);
+            this.cboItem.TabIndex = 21;
+            this.cboItem.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            // 
+            // btn16
+            // 
+            this.btn16.BackColor = System.Drawing.Color.Orange;
+            this.btn16.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn16.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn16.Location = new System.Drawing.Point(101, 225);
+            this.btn16.Name = "btn16";
+            this.btn16.Size = new System.Drawing.Size(103, 34);
+            this.btn16.TabIndex = 20;
+            this.btn16.Text = "Agregar";
+            this.btn16.UseVisualStyleBackColor = false;
+            this.btn16.Click += new System.EventHandler(this.btn16_Click);
             // 
             // button1
             // 
@@ -201,9 +239,9 @@
             this.btnC12.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnC12.Location = new System.Drawing.Point(236, 185);
             this.btnC12.Name = "btnC12";
-            this.btnC12.Size = new System.Drawing.Size(49, 34);
+            this.btnC12.Size = new System.Drawing.Size(87, 34);
             this.btnC12.TabIndex = 12;
-            this.btnC12.Text = "+/-";
+            this.btnC12.Text = "Total:";
             this.btnC12.UseVisualStyleBackColor = false;
             this.btnC12.Click += new System.EventHandler(this.btnC12_Click);
             // 
@@ -351,44 +389,6 @@
             this.btnC1.UseVisualStyleBackColor = false;
             this.btnC1.Click += new System.EventHandler(this.btnC1_Click);
             // 
-            // btn16
-            // 
-            this.btn16.BackColor = System.Drawing.Color.Orange;
-            this.btn16.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn16.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn16.Location = new System.Drawing.Point(101, 225);
-            this.btn16.Name = "btn16";
-            this.btn16.Size = new System.Drawing.Size(103, 34);
-            this.btn16.TabIndex = 20;
-            this.btn16.Text = "Agregar";
-            this.btn16.UseVisualStyleBackColor = false;
-            this.btn16.Click += new System.EventHandler(this.btn16_Click);
-            // 
-            // cboItem
-            // 
-            this.cboItem.FormattingEnabled = true;
-            this.cboItem.Location = new System.Drawing.Point(236, 33);
-            this.cboItem.Name = "cboItem";
-            this.cboItem.Size = new System.Drawing.Size(214, 26);
-            this.cboItem.TabIndex = 21;
-            this.cboItem.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
-            // 
-            // lbPedido
-            // 
-            this.lbPedido.FormattingEnabled = true;
-            this.lbPedido.ItemHeight = 18;
-            this.lbPedido.Location = new System.Drawing.Point(236, 65);
-            this.lbPedido.Name = "lbPedido";
-            this.lbPedido.Size = new System.Drawing.Size(214, 112);
-            this.lbPedido.TabIndex = 22;
-            // 
-            // txtTotal
-            // 
-            this.txtTotal.Location = new System.Drawing.Point(351, 184);
-            this.txtTotal.Name = "txtTotal";
-            this.txtTotal.Size = new System.Drawing.Size(100, 26);
-            this.txtTotal.TabIndex = 23;
-            // 
             // frmPantallaPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -400,8 +400,8 @@
             this.Name = "frmPantallaPrincipal";
             this.Text = "frmPantallaPrincipal";
             this.Load += new System.EventHandler(this.frmPantallaPrincipal_Load);
-            this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.frmPantallaPrincipal_KeyUp);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.frmPantallaPrincipal_KeyDown);
+            this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.frmPantallaPrincipal_KeyUp);
             this.grbMenu.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
